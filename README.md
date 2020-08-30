@@ -1,2 +1,2 @@
 # therainbowtribes
-THE RAINBOW TRIBES domain
+The RAINBOW TRIBES domain
