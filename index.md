@@ -16,4 +16,4 @@ Now building the future...
 - [Cosmatrix Foundation](http://binnerspace.cosmatrixfoundation/)
 - [Dreamspell Calculator](http://starroot.com/cgi/daycalc.pl)
 - [Starroot](http://www.starroot.com/)
-- [Law Of Time](https://lawoftime.org/)
+- [Law Of Time](http://www.lawoftime.org/thirteenmoon/flt.html)
