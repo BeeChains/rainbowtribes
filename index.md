@@ -15,5 +15,5 @@ Now building the future...
 - [Cosmatrix Connections](http://home.cosmatrixconnections/)
 - [Cosmatrix Foundation](http://binnerspace.cosmatrixfoundation/)
 - [Dreamspell Calculator](http://starroot.com/cgi/daycalc.pl)
-- [Starroot](http://www.starroot.com/)
+- [Galactic Decoder](http://www.13moon.com/decoder.php)
 - [Law Of Time](http://www.lawoftime.org/thirteenmoon/flt.html)
