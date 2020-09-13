@@ -15,3 +15,4 @@ Now building the future...
 - [Cosmatrix Connections](http://home.cosmatrixconnections/)
 - [Starroot](http://www.starroot.com/)
 - [Cosmatrix Foundation](http://binnerspace.cosmatrixfoundation/)
+- [Dreamspell Calculator](http://starroot.com/cgi/daycalc.pl)
